@@ -5,6 +5,7 @@ import numpy as np
 x =np.array(["Adriel","Erika","Geo"])
 y = np.array([22,22,15])
 
-plt.bar(x,y) 
+plt.bar(x,y, color="red") 
+#propriedade color=cor
 plt.show()
 
