@@ -9,3 +9,5 @@ plt.bar(x,y, color="red")
 #propriedade color=cor
 plt.show()
 
+#add linha apenas para teste 
+
